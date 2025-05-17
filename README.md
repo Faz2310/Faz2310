@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Games
 - 📫 How to reach me Faz106523@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm Completing My Diploma In Computer Science Rn. 
+- ⚡ Fun fact: I'm Completing My Bachelors in Computer Science(AI / ML). 
 
 <!---
 Faz2310/Faz2310 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
